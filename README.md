@@ -2,6 +2,10 @@
 
 This project was created as a take home challenge for Turing School of Software and Design's Mod 4. The goal was to create a RESTful API that would allow a customer to subscribe to a tea subscription service. The API was built using Ruby on Rails and PostgreSQL.
 
+## Database Setup
+![Screenshot 2023-07-28 at 11 18 01 AM](https://github.com/brenicillin/take-home/assets/120131327/bfc5154c-8d21-482e-a71d-ea2072f762a9)
+
+
 ## GET `/teas`, to: 'teas#index'
 
 Sending a GET request to localhost:3000/teas will return a JSON object with all teas in the database.
@@ -34,11 +38,17 @@ Sending a GET request to localhost:3000/customers/:customer_id/subscriptions wil
   
 
   ## Built With
+  
   Ruby on Rails
+  
   PostgreSQL
+  
   RSpec
+  
   FactoryBot
+  
   Faker
+  
   ShouldaMatchers
 
   ## Author
