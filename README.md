@@ -34,11 +34,17 @@ Sending a GET request to localhost:3000/customers/:customer_id/subscriptions wil
   
 
   ## Built With
+  
   Ruby on Rails
+  
   PostgreSQL
+  
   RSpec
+  
   FactoryBot
+  
   Faker
+  
   ShouldaMatchers
 
   ## Author
